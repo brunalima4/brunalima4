@@ -8,7 +8,7 @@
 - **E-mail**: brunall90@exemplo.com
 - **GitHub**: https://github.com/brunalima4
 
-## IDIOMAS 🗽
+## 🗽IDIOMAS 
 - **Português**: Nativo
 - **Inglês**: Básico/Intermediário *(A2/B1)*
 - **Espanhol**: Básico *(A2)*
